@@ -9,4 +9,4 @@ const DiscoverScreen = () => {
   )
 }
 
-export default DiscoverScreen
+export default DiscoverScreen;

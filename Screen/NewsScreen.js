@@ -9,4 +9,4 @@ const NewsScreen = () => {
   )
 }
 
-export default NewsScreen
+export default NewsScreen;
