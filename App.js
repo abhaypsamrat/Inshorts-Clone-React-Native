@@ -1,12 +1,12 @@
 import { View, Text, StyleSheet, StatusBar } from "react-native";
 import React from "react";
-import InshortTab from "./components/InshortTab";
+import InshortTabs from "./components/InshortTabs";
 import Context from "./API/Context";
 
 function App() {
   return (
     <View style={{ ...styles.container, backgroundColor: "#282C35" }}>
-      <InshortTab />
+      <InshortTabs />
     </View>
   );
 }
